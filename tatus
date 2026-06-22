@@ -1,0 +1,50 @@
+[33mcommit b38ac0e1d74e35459897d76118fe615ee8130f79[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlesson3[m[33m, [m[1;31morigin/lesson3[m[33m)[m
+Author: yuliya yun <yuliya.yun88@gmail.com>
+Date:   Fri May 1 22:02:10 2026 +0300
+
+    Добавлены файлы по заданиям к уроку 3
+
+[33mcommit dd6982e452a6825660041fb28d07a85f549a4398[m[33m ([m[1;31morigin/lesson2[m[33m, [m[1;32mlesson2[m[33m)[m
+Author: yuliya yun <yuliya.yun88@gmail.com>
+Date:   Tue Apr 21 22:54:22 2026 +0300
+
+    Добавлена ветка lesson2 и созданы папки для выполения практики и домашнего задания к Уроку 2
+
+[33mcommit 3b45129dfd639d0ad801399fd68ec71a35a75784[m
+Author: yuliya yun <yuliya.yun88@gmail.com>
+Date:   Wed Apr 15 19:16:06 2026 +0300
+
+    Выполнение ДЗ-1
+
+[33mcommit b7f7b738a804b2366a77943a1c49d7686ee64860[m
+Author: yuliya yun <yuliya.yun88@gmail.com>
+Date:   Wed Apr 15 17:42:04 2026 +0300
+
+    Отредактировала скрипт в файле script
+
+[33mcommit 537079083244ad40c22ee0bd6b81e4392099c8ae[m
+Author: yuliya yun <yuliya.yun88@gmail.com>
+Date:   Wed Apr 15 17:27:43 2026 +0300
+
+    Добавлена папка для ДЗ и практик
+
+[33mcommit 80a7731387c955d66cff25c8a810ab12f20be262[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 45669ef 27b4048
+Author: yuliyayun88-by <yuliya.yun88@gmail.com>
+Date:   Wed Apr 8 20:33:58 2026 +0300
+
+    Merge pull request #1 from yuliyayun88-by/lesson0
+    
+    Lesson 0: Настройка окружения
+
+[33mcommit 27b40482602bf63957c3d47c592281c0d9cf9dec[m[33m ([m[1;31morigin/lesson0[m[33m)[m
+Author: yuliya yun <yuliya.yun88@gmail.com>
+Date:   Wed Apr 8 20:28:21 2026 +0300
+
+    Add greeting message to script.py
+
+[33mcommit 45669ef00cb4a6e41b7357c9c60a051dd287023c[m
+Author: yuliyayun88-by <yuliya.yun88@gmail.com>
+Date:   Wed Apr 8 20:14:46 2026 +0300
+
+    Initial commit
