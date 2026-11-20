@@ -28,13 +28,6 @@ def test_session_storage_auth():
 
     # Перейдите на страницу пользователя 1.
     driver.get("https://gitflic.ru/user/ulia")
-    #page_in = wait.until(EC.element_to_be_clickable(
-        #(By.XPATH, "//img[contains(@src,'avatar')]/parent::button")))
-    #page_in.click()
-
-    #item = wait.until(EC.element_to_be_clickable(
-        #(By.CSS_SELECTOR, "a.dropdown-item[href='/user/ulia']")))
-    #item.click()
 
     # Сохраните текущий URL.
     url_1 = driver.current_url

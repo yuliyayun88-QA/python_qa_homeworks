@@ -23,7 +23,7 @@ def test_dynamic_loading():
     driver.save_screenshot("Screenshots/hw_full_page.png")
 
     # 5. Проверьте, что появившийся текст равен "Hello World!"
-    assert text_find.text == "Hello World!", f"Текст не совпадает, фактический текст {
-    text_find.text}"
+    assert text_find.text == "Hello World!", f"Текст не совпадает, фактический текст {text_find.text}"
+    print(text_find.text)
 
     driver.quit()
